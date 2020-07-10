@@ -1,4 +1,4 @@
-## [String](../dataStructure.md)
+## [String](./dataStructure.md)
 ### Top used methods
 
 ```
