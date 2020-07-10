@@ -1,4 +1,4 @@
-## Costco
+## Shopping List
 
 - [ ] Egg
 - [ ] Apple
