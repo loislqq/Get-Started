@@ -7,6 +7,5 @@
 - [ ] Watermelon
 - [ ] Grape
 - [ ] Strawberry
-- [ ] Apple Sause
+- [x] Apple Sause
 - [ ] Bread
-- [ ]
