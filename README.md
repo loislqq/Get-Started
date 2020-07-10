@@ -1,4 +1,4 @@
-## LeetCode Problems
+# LeetCode Problems
 1. [Two Sum](leetcode/twosum.md)
 1. [Valid Parentheses](leetcode/validParentheses.md)
 1. [Merge 2 Sorted Lists](leetcode/mergelists.md)
