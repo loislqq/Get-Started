@@ -1,5 +1,5 @@
 ## [String](./dataStructure.md)
-### Top used methods
+### Top Methods
 
 ```
 String s1 = new String();
@@ -16,3 +16,5 @@ char ch = s2.charAt(4); // return 'r'
 // find index at first
 int index = s2.indexOf('r'); // return 4. if not found, return -1
 ```
+### Top Interview Questions
+[1.Implement strStr()](../leetcode/implementstrStr.md)
