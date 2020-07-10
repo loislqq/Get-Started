@@ -1,4 +1,4 @@
-## String
+## [String](../)
 ### Top used methods
 
 ```
