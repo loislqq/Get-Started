@@ -1,4 +1,4 @@
-## ImplementstrStr()
+## Implement strStr()
 
 Implement strStr().
 
