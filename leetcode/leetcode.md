@@ -50,3 +50,5 @@
 1. [](./)
 1. [](./)
 1. [](./)
+
+[Next page 51 - 100](../leetcode2/leetcode2.md)
