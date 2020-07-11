@@ -1,4 +1,4 @@
-## Longest Common Substring
+## Longest Common Substring (LintCode -- Medium)
 
 Problem Statement
 Given two strings, find the longest common substring.
