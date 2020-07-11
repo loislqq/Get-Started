@@ -19,4 +19,4 @@ int index = s2.indexOf('r'); // return 4. if not found, return -1
 ### Top Interview Questions
 1. [ Implement strStr()](../leetcode/implementstrStr.md)
 2. [ Valid Anagram](../leetcode/validAnagram.md)
-3. [ Ransom Note](../leetcode/ransomeNote.md)
+3. [ Ransom Note](../leetcode/ransomNote.md
