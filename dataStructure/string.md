@@ -27,3 +27,5 @@ int index = s2.indexOf('r'); // return 4. if not found, return -1
 [3. Ransom Note](../leetcode/ransomNote.md)
 
 [4. Group Anagrams](../leetcode/groupAnagrams.md)
+
+[5. Longest Common Substring](./longestCommonSubstring.md)
