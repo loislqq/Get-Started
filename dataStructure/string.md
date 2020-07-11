@@ -20,3 +20,4 @@ int index = s2.indexOf('r'); // return 4. if not found, return -1
 1. [ Implement strStr()](../leetcode/implementstrStr.md)
 2. [ Valid Anagram](../leetcode/validAnagram.md)
 3. [ Ransom Note](../leetcode/ransomNote.md)
+4. [Group Anagrams](../leetcode/groupAnagrams.md)
