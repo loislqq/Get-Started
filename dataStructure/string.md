@@ -17,5 +17,5 @@ char ch = s2.charAt(4); // return 'r'
 int index = s2.indexOf('r'); // return 4. if not found, return -1
 ```
 ### Top Interview Questions
-[1. Implement strStr()](../leetcode/implementstrStr.md)
+[1. Implement strStr()](../leetcode/implementstrStr.md)\
 [2. Valid Anagram](../leetcode/validAnagram.md)
