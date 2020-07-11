@@ -19,6 +19,7 @@ You may assume the string contains only lowercase alphabets.
 Follow up:
 What if the inputs contain unicode characters? How would you adapt your solution to such case?
 
+```
 public class Solution {
     public bool IsAnagram(string s, string t) {
         if(s == null && t == null) return true;
@@ -41,3 +42,4 @@ public class Solution {
         return true;
     }
 }
+```
