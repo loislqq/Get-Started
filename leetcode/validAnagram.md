@@ -18,3 +18,26 @@ You may assume the string contains only lowercase alphabets.
 
 Follow up:
 What if the inputs contain unicode characters? How would you adapt your solution to such case?
+
+public class Solution {
+    public bool IsAnagram(string s, string t) {
+        if(s == null && t == null) return true;
+        if(s == null || t == null) return false;
+        if(s.Length != t.Length) return false;
+        
+        int[] count = new int[256];
+        
+        for(int i = 0; i < s.Length; i++) {
+           count[s[i]-'a'] ++;             
+        }
+        
+        for(int i = 0; i < t.Length; i++) {
+            count[t[i]-'a'] --;
+        }
+        for(int i = 0; i < count.Length; i++) {
+            if(count[i] != 0) return false;
+        }
+        
+        return true;
+    }
+}
