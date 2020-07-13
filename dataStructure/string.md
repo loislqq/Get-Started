@@ -33,3 +33,5 @@ int index = s2.indexOf('r'); // return 4. if not found, return -1
 [6. Reverse Words in a String](../leetcode/reverseWordsInString.md)
 
 [7. Valid Palindrome](../leetcode/validPalindrome.md)
+
+[8. Valid Palindrome II](../leetcode/validPalindrome2.md)
