@@ -35,3 +35,5 @@ int index = s2.indexOf('r'); // return 4. if not found, return -1
 [7. Valid Palindrome](../leetcode/validPalindrome.md)
 
 [8. Valid Palindrome II](../leetcode/validPalindrome2.md)
+
+[9. Longest Palindromic Substring](../leetcode/longestPalindromicSubstring.md)
