@@ -43,3 +43,5 @@ int index = s2.indexOf('r'); // return 4. if not found, return -1
 [11. Length of Last Word](../leetcode/lengthOfLastWord.md)
 
 [12. Count and Say](../leetcode/countAndSay.md)
+
+[13. Defanging an IP Address](../leetcode/defangingAnIPAddress.md)
