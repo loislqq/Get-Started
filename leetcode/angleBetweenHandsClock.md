@@ -1,6 +1,7 @@
 ## Angle Between Hands of a Clock (Medium)
 Given two numbers, hour and minutes. Return the smaller angle (in degrees) formed between the hour and the minute hand.
 
+![clock](https://assets.leetcode.com/uploads/2019/12/26/sample_1_1673.png)
 Input: hour = 12, minutes = 30
 Output: 165
 
