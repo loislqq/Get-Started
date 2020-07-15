@@ -1,4 +1,4 @@
-## Angle Between Hands of a Clock
+## Angle Between Hands of a Clock (Medium)
 Given two numbers, hour and minutes. Return the smaller angle (in degrees) formed between the hour and the minute hand.
 
 Input: hour = 12, minutes = 30
