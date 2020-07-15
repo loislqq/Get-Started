@@ -28,7 +28,7 @@ int index = s2.indexOf('r'); // return 4. if not found, return -1
 
 [4. Group Anagrams](../leetcode/groupAnagrams.md)
 
-[5. Longest Common Substring](./longestCommonSubstring.md)
+[5. Longest Common Substring (LintCode)](./longestCommonSubstring.md)
 
 [6. Reverse Words in a String](../leetcode/reverseWordsInString.md)
 
@@ -38,7 +38,7 @@ int index = s2.indexOf('r'); // return 4. if not found, return -1
 
 [9. Longest Palindromic Substring](../leetcode/longestPalindromicSubstring.md)
 
-[10. Space Replacement](./spaceReplacement.md)
+[10. Space Replacement (LintCode)](./spaceReplacement.md)
 
 [11. Length of Last Word](../leetcode/lengthOfLastWord.md)
 
