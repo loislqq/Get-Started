@@ -55,7 +55,7 @@
 1. [Angle Between Hands of a Clock](./angleBetweenHandsClock.md)
 1. [Subsets](./subsets.md)
 1. [Pairs of Songs With Total Durations Divisible by 60](./pairsOfSongsDivisibleBy60.md)
-1. [](./)
+1. [Length of Last Word](./lengthOfLastWord.md)
 1. [](./)
 1. [](./)
 1. [](./)
