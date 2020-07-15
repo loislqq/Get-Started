@@ -8,7 +8,8 @@ Example:
 
 
 <img width="200" alt="clock" src="./image/clock.png">
-```
+
+
 Input: nums = [1,2,3]
 Output:
 [
@@ -21,7 +22,7 @@ Output:
   [1,2],
   []
 ]
-```
+
 
 ```
 public class Solution {
