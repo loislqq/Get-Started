@@ -48,12 +48,12 @@ int index = s2.indexOf('r'); // return 4. if not found, return -1
 
 [14. Roman to Integer](../leetcode/romanToInteger.md)
 
-[15. Longest Common Prefix](..leetcode/longestCommonPrefix.md)
+[15. Longest Common Prefix](../leetcode/longestCommonPrefix.md)
 
-[16. Valid Parentheses](..leetcode/validParentheses.md)
+[16. Valid Parentheses](../leetcode/validParentheses.md)
 
-[17. ](..leetcode/)
+[17. ](../leetcode/)
 
-[](..leetcode/)
+[](../leetcode/)
 
-[](..leetcode/)
+[](../leetcode/)
