@@ -45,3 +45,15 @@ int index = s2.indexOf('r'); // return 4. if not found, return -1
 [12. Count and Say](../leetcode/countAndSay.md)
 
 [13. Defanging an IP Address](../leetcode/defangingAnIPAddress.md)
+
+[14. Roman to Integer](../leetcode/romanToInteger.md)
+
+[15. Longest Common Prefix](..leetcode/longestCommonPrefix.md)
+
+[16. Valid Parentheses](..leetcode/validParentheses.md)
+
+[17. ](..leetcode/)
+
+[](..leetcode/)
+
+[](..leetcode/)
