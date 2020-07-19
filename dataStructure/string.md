@@ -54,6 +54,6 @@ int index = s2.indexOf('r'); // return 4. if not found, return -1
 
 [17. Add Binary](../leetcode/addBinary.md)
 
-[](../leetcode/)
+[18. Reverse String](../leetcode/reverseString.md)
 
 [](../leetcode/)
