@@ -61,7 +61,7 @@
 1. [Top K Frequent Elements](./topKFrequentElements.md)
 1. [Add Binary](./addBinary.md)
 1. [Reverse String](./reverseString.md)
-1. [](./)
+1. [Reverse Vowels of a String](./reverseVowelsOfString.md)
 1. [](./)
 1. [](./)
 1. [](./)
