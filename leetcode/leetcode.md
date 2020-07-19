@@ -60,7 +60,7 @@
 1. [Defanging an IP Address](./defangingAnIPAddress.md)
 1. [Top K Frequent Elements](./topKFrequentElements.md)
 1. [Add Binary](./addBinary.md)
-1. [](./)
+1. [Reverse String](./reverseString.md)
 1. [](./)
 1. [](./)
 1. [](./)
