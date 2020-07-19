@@ -58,7 +58,8 @@ int index = s2.indexOf('r'); // return 4. if not found, return -1
 
 [19. Reverse Vowels of a String](../leetcode/reverseVowelsOfString.md)
 
-[](../leetcode/)
+[20. First Unique Character in a String](../leetcode/firstUniqueCharInString.md)
+
 [](../leetcode/)
 [](../leetcode/)
 [](../leetcode/)
