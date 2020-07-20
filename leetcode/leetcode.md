@@ -67,7 +67,7 @@
 1. [String Compression](./stringCompression.md)
 1. [Remove Linked List Elements](./removeLinkedListElements.md)
 1. [Repeated Substring Pattern](./repeatedSubstringPattern.md)
-1. [](./)
+1. [Detect Capital](./detectCapital.md)
 1. [](./)
 1. [](./)
 1. [](./)
