@@ -60,7 +60,7 @@ int index = s2.indexOf('r'); // return 4. if not found, return -1
 
 [20. First Unique Character in a String](../leetcode/firstUniqueCharInString.md)
 
-[](../leetcode/)
+[21. Add String](../leetcode/addString.md)
 [](../leetcode/)
 [](../leetcode/)
 [](../leetcode/)
