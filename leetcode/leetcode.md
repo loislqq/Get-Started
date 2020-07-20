@@ -65,7 +65,7 @@
 1. [Add String](./addString.md)
 1. [Number of Segments in s String](./numberOfSegmentsInString.md)
 1. [String Compression](./stringCompression.md)
-1. [](./)
+1. [Remove Linked List Elements](./removeLinkedListElements.md)
 1. [](./)
 1. [](./)
 1. [](./)
