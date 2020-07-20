@@ -65,5 +65,23 @@ int index = s2.indexOf('r'); // return 4. if not found, return -1
 [22. Number of Segments in a String](../leetcode/numberOfSegmentsInString.md)
 
 [23. String Compression](../leetcode/stringCompression.md)
+
+[24. Detect Capital](../leetcode/detectCapital.md)
+
 [](../leetcode/)
+
+[](../leetcode/)
+
+[](../leetcode/)
+
+[](../leetcode/)
+
+[](../leetcode/)
+
+[](../leetcode/)
+
+[](../leetcode/)
+
+[](../leetcode/)
+
 [](../leetcode/)
