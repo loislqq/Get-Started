@@ -66,7 +66,7 @@
 1. [Number of Segments in s String](./numberOfSegmentsInString.md)
 1. [String Compression](./stringCompression.md)
 1. [Remove Linked List Elements](./removeLinkedListElements.md)
-1. [](./)
+1. [Repeated Substring Pattern](./repeatedSubstringPattern.md)
 1. [](./)
 1. [](./)
 1. [](./)
