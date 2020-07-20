@@ -62,7 +62,7 @@
 1. [Add Binary](./addBinary.md)
 1. [Reverse String](./reverseString.md)
 1. [Reverse Vowels of a String](./reverseVowelsOfString.md)
-1. [](./)
+1. [Add String](./addString.md)
 1. [](./)
 1. [](./)
 1. [](./)
