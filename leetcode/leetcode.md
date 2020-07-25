@@ -76,7 +76,7 @@
 1. [Find Minimum in Rotated Sorted Array II](./findMinimunmInRotatedSortedArray2.md)
 1. [Max Consecutive Ones](./maxConsecutiveOnes.md)
 1. [Find Numbers with Even Number of Digits](./findNumbersWithEvenNumberOfDigits.md)
-1. [](./)
+1. [Squares of a Sorted Array](./squaresOfSortedArray.md)
 1. [](./)
 1. [](./)
 1. [](./)
