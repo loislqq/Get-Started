@@ -155,6 +155,15 @@ System.out.println("The Array has a length of " + length);
 
 [2. Find Numbers whit Even Number of Digits](../leetcode/findNumbersWithEvenNumberOfDigits.md)
 
-[3. ](../leetcode/)
+[3. Squares of a Sorted Array](../leetcode/squaresOfSortedArray.md)
+
+[](../leetcode/)
+[](../leetcode/)
+[](../leetcode/)
+[](../leetcode/)
+[](../leetcode/)
+[](../leetcode/)
+[](../leetcode/)
+[](../leetcode/)
 
 
