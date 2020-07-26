@@ -77,7 +77,7 @@
 1. [Max Consecutive Ones](./maxConsecutiveOnes.md)
 1. [Find Numbers with Even Number of Digits](./findNumbersWithEvenNumberOfDigits.md)
 1. [Squares of a Sorted Array](./squaresOfSortedArray.md)
-1. [](./)
+1. [Add Digits](./addDigits.md)
 1. [](./)
 1. [](./)
 1. [](./)
