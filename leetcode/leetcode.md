@@ -80,7 +80,7 @@
 1. [Add Digits](./addDigits.md)
 1. [Construct Binary Tree from Inorder and Postorder Traversal](./constructBTFromInPostTraversal.md)
 1. [Task Scheduler](./taskScheduler.md)
-1. [](./)
+1. [Design HashSet](./designHashSet.md)
 1. [](./)
 1. [](./)
 1. [](./)
