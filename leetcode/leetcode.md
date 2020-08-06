@@ -84,7 +84,7 @@
 1. [Power of Four](./powerOfFour.md)
 1. [Power of Two](./powerOfTwo.md)
 1. [Power of Three](./powerOfThree.md)
-1. [](./)
+1. [Find All Duplicates in an Array](./findAllDuplicatesInArray.md)
 1. [](./)
 1. [](./)
 1. [](./)
