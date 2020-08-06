@@ -157,7 +157,8 @@ System.out.println("The Array has a length of " + length);
 
 [3. Squares of a Sorted Array](../leetcode/squaresOfSortedArray.md)
 
-[](../leetcode/)
+[4. Find all Duplicates in an Array](../leetcode/findAllDuplicatesInArray.md)
+
 [](../leetcode/)
 [](../leetcode/)
 [](../leetcode/)
