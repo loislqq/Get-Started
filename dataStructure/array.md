@@ -159,7 +159,8 @@ System.out.println("The Array has a length of " + length);
 
 [4. Find all Duplicates in an Array](../leetcode/findAllDuplicatesInArray.md)
 
-[](../leetcode/)
+[5. Find All Numbers Disappeared in an Array](../leetcode/findAllDisappearedNumbersArray.md)
+
 [](../leetcode/)
 [](../leetcode/)
 [](../leetcode/)
