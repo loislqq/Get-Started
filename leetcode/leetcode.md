@@ -85,7 +85,7 @@
 1. [Power of Two](./powerOfTwo.md)
 1. [Power of Three](./powerOfThree.md)
 1. [Find All Duplicates in an Array](./findAllDuplicatesInArray.md)
-1. [](./)
+1. [Pascal's Triangle](./pascalsTriangle.md)
 1. [](./)
 1. [](./)
 1. [](./)
