@@ -41,7 +41,8 @@ public class Solution {
         int result = 0;
         
         for(int i = 0; i < s.Length; i++) {
-            result = 26 * result + (s[i] - 64);
+            int num = s[i] - 'A' + 1;
+            result = 26 * result + num;
         }
         
         return result;
