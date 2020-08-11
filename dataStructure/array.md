@@ -161,7 +161,8 @@ System.out.println("The Array has a length of " + length);
 
 [5. Find All Numbers Disappeared in an Array](../leetcode/findAllDisappearedNumbersArray.md)
 
-[](../leetcode/)
+[6. Two Sum II - Input array is sorted](../leetcode/twoSum2Sorted.md)
+
 [](../leetcode/)
 [](../leetcode/)
 [](../leetcode/)
