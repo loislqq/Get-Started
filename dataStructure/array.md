@@ -171,7 +171,7 @@ System.out.println("The Array has a length of " + length);
 
 [10. Contains Duplicate](../leetcode/containsDuplicate.md)
 
-[](../leetcode/)
+[11. Missing Number](../leetcode/missingNumber.md)
 
 [](../leetcode/)
 
