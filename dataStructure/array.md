@@ -167,7 +167,8 @@ System.out.println("The Array has a length of " + length);
 
 [8. Pascal's Triangle II](../leetcode/pascalsTriangle2.md)
 
-[](../leetcode/)
+[9. Rotate Array](../leetcode/rotateArray.md)
+
 [](../leetcode/)
 [](../leetcode/)
 
