@@ -92,7 +92,7 @@
 1. [Two Sum II - Input array is sorted](./twoSum2Sorted.md)
 1. [Rotate Array](./rotateArray.md)
 1. [Contains Duplicate](./containsDuplicate.md)
-1. [](./)
+1. [Contains Duplicate II](./containsDuplicate2.md)
 1. [](./)
 1. [](./)
 1. [](./)
