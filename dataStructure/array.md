@@ -169,7 +169,30 @@ System.out.println("The Array has a length of " + length);
 
 [9. Rotate Array](../leetcode/rotateArray.md)
 
+[10. Contains Duplicate](../leetcode/containsDuplicate.md)
+
 [](../leetcode/)
+
+[](../leetcode/)
+
+[](../leetcode/)
+
+[](../leetcode/)
+
+[](../leetcode/)
+
+[](../leetcode/)
+
+[](../leetcode/)
+
+[](../leetcode/)
+
+[](../leetcode/)
+
+[](../leetcode/)
+
+[](../leetcode/)
+
 [](../leetcode/)
 
 
