@@ -163,8 +163,10 @@ System.out.println("The Array has a length of " + length);
 
 [6. Two Sum II - Input array is sorted](../leetcode/twoSum2Sorted.md)
 
-[](../leetcode/)
-[](../leetcode/)
+[7. Pascal's Triangle](../leetcode/pascalsTriangle.md)
+
+[8. Pascal's Triangle II](../leetcode/pascalsTriangle2.md)
+
 [](../leetcode/)
 [](../leetcode/)
 [](../leetcode/)
