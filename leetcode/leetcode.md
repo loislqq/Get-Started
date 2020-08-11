@@ -87,7 +87,7 @@
 1. [Find All Duplicates in an Array](./findAllDuplicatesInArray.md)
 1. [Pascal's Triangle](./pascalsTriangle.md)
 1. [Excel Sheet Column Number](./excelSheetColumnNumber.md)
-1. [](./)
+1. [H-Index](./hIndex.md)
 1. [](./)
 1. [](./)
 1. [](./)
