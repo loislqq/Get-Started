@@ -95,7 +95,7 @@
 1. [Contains Duplicate II](./containsDuplicate2.md)
 1. [Missing Number](./missingNumber.md)
 1. [Iterator for Combination](./iteratorForCombination.md)
-1. [](./)
+1. [Third Maximum Number](./thirdMaximunNumber.md)
 1. [](./)
 1. [](./)
 1. [](./)
