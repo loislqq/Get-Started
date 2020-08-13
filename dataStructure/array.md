@@ -173,7 +173,7 @@ System.out.println("The Array has a length of " + length);
 
 [11. Missing Number](../leetcode/missingNumber.md)
 
-[12. Third Maximum Number](../leetcode/thirdMaximumNumber.md)
+[12. Third Maximum Number](../leetcode/thirdMaximunNumber.md)
 
 [](../leetcode/)
 
