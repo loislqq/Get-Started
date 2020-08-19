@@ -99,7 +99,7 @@
 1. [Fibonacci Number](./FibonacciNumber.md)
 1. [Longest Palindrome](./LongestPalindrome.md)
 1. [Non-overlapping Intervals](./NonOverlappingIntervals.md)
-1. [](./)
+1. [Goat Latin](./GoatLatin.md)
 1. [](./)
 1. [](./)
 1. [](./)
