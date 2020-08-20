@@ -126,6 +126,18 @@ ListNode* InLisNodet(ListNode *head)
 
 [2. Add Two Numbers](../leetcode/addTwoNumbers.md)
 
+[3. Reorder List](../leetcode/reorderList.md)
+
+[](../leetcode/)
+
+[](../leetcode/)
+
+[](../leetcode/)
+
+[](../leetcode/)
+
+[](../leetcode/)
+
 [](../leetcode/)
 
 [](../leetcode/)
