@@ -101,7 +101,7 @@
 1. [Non-overlapping Intervals](./NonOverlappingIntervals.md)
 1. [Goat Latin](./GoatLatin.md)
 1. [Reorder List](./reorderList.md)
-1. [](./)
+1. [Sort Array By Parity](./sortArrayByParity.md)
 1. [](./)
 1. [](./)
 1. [](./)
