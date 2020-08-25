@@ -109,7 +109,7 @@
 1. [Count Primes](./countPrime.md)
 1. [Minimum Cost For Tickets](./minimumCostForTickets.md)
 1. [Isomorphic Strings](./isomorphicStrings.md)
-1. [](./)
+1. [Implement Stack using Queues](./implementStackUsingQueues.md)
 1. [](./)
 1. [](./)
 1. [](./)
