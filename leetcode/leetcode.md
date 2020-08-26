@@ -111,7 +111,7 @@
 1. [Isomorphic Strings](./isomorphicStrings.md)
 1. [Implement Stack using Queues](./implementStackUsingQueues.md)
 1. [Implement Queue using Stacks](./implementQueueUsingStacks.md)
-1. [](./)
+1. [Fizz Buzz](./fizzBuzz.md)
 1. [](./)
 1. [](./)
 1. [](./)
