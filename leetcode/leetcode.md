@@ -113,7 +113,7 @@
 1. [Implement Queue using Stacks](./implementQueueUsingStacks.md)
 1. [Fizz Buzz](./fizzBuzz.md)
 1. [Find Right Interval](./findRightInterval.md)
-1. [](./)
+1. [Implement Rand10() Using Rand7()](./implementRand10UsingRand7.md)
 1. [](./)
 1. [](./)
 1. [](./)
