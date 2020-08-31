@@ -114,7 +114,7 @@
 1. [Fizz Buzz](./fizzBuzz.md)
 1. [Find Right Interval](./findRightInterval.md)
 1. [Implement Rand10() Using Rand7()](./implementRand10UsingRand7.md)
-1. [](./)
+1. [Delete Node in a BST](./deleteNodeInBST.md)
 1. [](./)
 1. [](./)
 1. [](./)
