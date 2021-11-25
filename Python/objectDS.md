@@ -132,3 +132,39 @@ new_list.reverse()
 
 When to choose a list and when to choose a dictionary
 ![different](./DictList.png)
+
+```
+prices_lookup = {'apple': 1.5, 'orange': 2.3, 'peach':6.123}
+prices_lookup['apple']
+
+
+d = {'key1':['a','b','c'], 'key2':100}
+d['key1'][2].upper()
+
+d['key3'] = 200
+
+d.keys()
+d.values()
+d.items()
+```
+
+## Tuples with Python
+
+Tuples are very similar to lists. However they have one key difference - immutability.
+
+Once an element is inside a tuple, it cannot be reassigned.
+
+Tuples use parenthesis:(1,2,3)
+
+```
+t = (1,2,3)
+t[0]
+
+t = ('a','a','b')
+t.count('a')
+t.index('a')
+
+```
+Tuples only have 2 methods.
+
+## Sets in Python
