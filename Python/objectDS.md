@@ -16,7 +16,7 @@ There are two main number types:
 ***Python uses Dynamic typing, this means we can reassign variables to different data types.***
 
 this is OK in Python
-'''
+"""
 my_dogs = 2
 my_dogs = ["Sammy", "Franky"]
-'''
+"""
