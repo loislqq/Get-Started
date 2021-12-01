@@ -168,3 +168,74 @@ t.index('a')
 Tuples only have 2 methods.
 
 ## Sets in Python
+
+Sets are unordered collections of unique elements.
+
+```
+myset = set()
+myset.add(1)  # {1}
+
+mylist = [1,1,1,1,1,2,2,2,2,3,3,3]
+set(mylist)  # {1,2,3}
+```
+
+## Booleans in Python
+
+Booleans are operators that allow you to convey True or False statement.
+
+These are very important when we deal with control flow and logic.
+
+## I/O with Basic Files in Python 
+
+```
+%%writefile myfile.txt
+Hello this is a text file
+This is the second line
+This is the third line
+```
+
+```
+myfile = open('myfile.txt')
+pwd     # return the path of the file
+myfile.read()  # return the content of the file. Grab everthing as a string.
+myfile.read()  # when we read again, will return '', because the cursor is at the end of file content
+myfile.seek(0) # return 0, and put the cursor at the beginning of the file
+myfile.read()  # will return the content of the file.
+contents = myfile.read()
+
+myfile.seek(0)
+myfile.readlines()  # return the contents, each line as a separate object
+```
+
+File location
+1. For Windows, we need to use double \, a file path is in the form: myfile = open("c:\\Users\\UserName\\Folder\\myfile.txt")
+2. For MacOS and Linux, we use slashes in the opposite direction: myfile = open("/Users/UserName/Folder/myfile.txt")
+
+```
+myfile.close() # we need to close the file when we are done, or there might be error message like "python is using this file"
+
+# OR
+# see below, we dont need to worry about close the file.
+with open("myfile.txt") as my_new_file:
+  content = my_new_file.read()
+```
+
+### Reading, writing and appending mode
+1. mode = 'r' is read only
+1. mode = 'w' is write only (will overwrite files or create new!)
+2. mode = 'a' is append only (will add on to files)
+3. mode = 'r+' is reading and writing 
+4. mode = 'w+' is writing and reading (overwrites exsiting files or creates a new file)
+
+```
+with open("myfile.txt", mode='r') as f:
+  print(f.read())
+  
+with open("myfile.txt", mode='a') as f:
+  f.write('\nThis is the forth line')
+  
+with open("sdfdsf.txt", mode='w') as f:
+  f.write('I Created this file')
+```
+
+
