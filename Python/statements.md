@@ -74,7 +74,7 @@ else:
 ```
 ### Break, continue, pass
 
-1.. pass: Does nothing at all
+1. pass: Does nothing at all
 
 ```
 x = [1,2,3]
@@ -147,3 +147,5 @@ input()
 ```
 result = input('Enter a number here:')
 ```
+
+### List Comprehensions
