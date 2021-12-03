@@ -149,3 +149,36 @@ result = input('Enter a number here:')
 ```
 
 ### List Comprehensions
+
+```
+mystring = 'Hello'
+
+mylist = []
+for letter in mystring:
+    mylist.append(letter)   
+# output mylist: ['H', 'e', 'l', 'l', 'o']
+```
+OR we can write like below:
+```
+mystring = "Hello"
+
+mylist = [letter for letter in mystring]
+```
+```
+mylist = [num for num in range(0,10)]
+# [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+```
+```
+mylist = [num**2 for num in range(0,10)]
+# [0, 1, 4, 9, 16, 25, 36, 49, 64, 81]
+```
+```
+mylist = [num for num in range(0,10) if num % 2 == 0]
+# [0, 2, 4, 6, 8]
+```
+```
+celcius = [0,10,20,34.5]
+fahrenheit = [((9/5)*temp + 32) for temp in celcius]
+# [32.0, 50.0, 68.0, 94.1]
+```
+
