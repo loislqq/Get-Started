@@ -9,3 +9,5 @@ The github resources: https://github.com/Pierian-Data/Complete-Python-3-Bootcamp
 ### [Python Comparison Operators](./comparisonOperator.md)
 
 ### [Python Statements](./statements.md)
+
+### [Methods and Functions](./methodFunction.md)
