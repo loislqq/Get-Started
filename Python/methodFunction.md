@@ -13,5 +13,7 @@ def name_of_function(name):
 def add_nums(num1, num2):
   return num1 + num2
 ```
+## *args and ** kwargs in Python
 
 
+## [Function Practice Exercises](./functionExercises.md)
