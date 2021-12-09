@@ -1,4 +1,4 @@
-# Methods and Functions
+# Section 6: Methods and Functions
 
 ## Methods and the Python Documentation
 https://docs.python.org/3/
@@ -17,3 +17,6 @@ def add_nums(num1, num2):
 
 
 ## [Function Practice Exercises](./functionExercises.md)
+
+## Lambda Expression, Map and Filter Function
+
