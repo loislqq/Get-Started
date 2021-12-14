@@ -11,3 +11,5 @@ The github resources: https://github.com/Pierian-Data/Complete-Python-3-Bootcamp
 ### [Python Statements](./statements.md)
 
 ### [Methods and Functions](./methodFunction.md)
+
+### [Milestone Project 1](./project1.md)
